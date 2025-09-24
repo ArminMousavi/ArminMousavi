@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arminmousavi" alt="arminmousavi" /></a> </p>
 
-- 🔭 I’m currently working on **VitalVale, Battlez, MadPhoenix, etc**
+- 🔭 I’m currently working on **VitalVale, MadPhoenix, etc**
 
 - 💬 Ask me about **C++, Kotlin, Java, Go, Javascript, PHP and more!**
 
-- ⚡ Fun fact **All of things you think impossible, Are actually possible!**
+- ⚡ Fun fact **All of the things that you think is impossible, Are actually possible!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
